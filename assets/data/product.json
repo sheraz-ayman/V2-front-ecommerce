@@ -1,0 +1,92 @@
+[
+    {
+        "_id": {
+            "_id": "5f15d8852a025143f9593a7c"
+        },
+        "image": "https://th.bing.com/th/id/OIP.tH7_ynoYuUjzuD5FvjKCiAAAAA?pid=ImgDet&rs=1",
+        "brand": "Curly Hair Brand 1",
+        "price": 24.99,
+        "rating": 4.7,
+        "numReviews": 0,
+        "isFeatured": true,
+        "name": "Curly Hair Product 1",
+        "description": "Description of Curly Hair Product 1",
+        "category": {
+            "_id": "5f15d5cdcb4a6642bddc0fff"
+        },
+        "countInStock": 25,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "_id": "5f15d8852a025143f9593123"
+        },
+        "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/63747933/3415478038.jpg",
+        "brand": "Curly Hair Brand 3",
+        "price": 24.99,
+        "rating": 4.7,
+        "numReviews": 0,
+        "isFeatured": true,
+        "name": "Curly Hair Product 3",
+        "description": "Description of Curly Hair Product 1",
+        "category": {
+            "_id": "5f15d5cdcb4a6642bddc0fe4"
+        },
+        "countInStock": 25,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "_id": "5f15d8852a025143f9593a7d"
+        },
+        "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/63747933/3479582867.png",
+        "brand": "Curly Hair Brand 2",
+        "price": 24.99,
+        "rating": 4.7,
+        "numReviews": 0,
+        "isFeatured": true,
+        "name": "Curly Hair Product 2",
+        "description": "Description of Curly Hair Product 2",
+        "category": {
+            "_id": "5f15d5cdcb4a6642bddc0fe5"
+        },
+        "countInStock": 25,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "_id": "5f15d8852a025143f9593a7r"
+        },
+        "image": "https://th.bing.com/th/id/R.e067170cbf0ef32134a7c708891cfda0?rik=WDYgRi7rzj8XuQ&pid=ImgRaw&r=0",
+        "brand": "Curly Hair Brand 4",
+        "price": 24.99,
+        "rating": 4.7,
+        "numReviews": 0,
+        "isFeatured": true,
+        "name": "Curly Hair Product 4",
+        "description": "Description of Curly Hair Product 4",
+        "category": {
+            "_id": "4"
+        },
+        "countInStock": 25,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "_id": "5f15d8852a025143f9593a7j"
+        },
+        "image": "https://th.bing.com/th/id/R.d63fc6bfbca6eccff998ade534bdb4a6?rik=talRweZvEqAchg&pid=ImgRaw&r=0",
+        "brand": "Curly Hair Brand 5",
+        "price": 24.99,
+        "rating": 4.7,
+        "numReviews": 0,
+        "isFeatured": true,
+        "name": "Curly Hair Product 5",
+        "description": "Description of Curly Hair Product 4",
+        "category": {
+            "_id": "3"
+        },
+        "countInStock": 25,
+        "__v": 0
+    }
+]

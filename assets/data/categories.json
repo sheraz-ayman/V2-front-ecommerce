@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "5f15d5cdcb4a6642bddc0fe9",
+        "name": "Shampoo",
+        "icon": "shampoo-icon.png",
+        "color": "#3498db"
+    },
+    {
+        "_id": "5f15d5cdcb4a6642bddc0fe4",
+        "name": "Conditioner",
+        "icon": "conditioner-icon.png",
+        "color": "#e74c3c"
+    },
+    {
+        "_id": "3",
+        "name": "Gel",
+        "icon": "gel-icon.png",
+        "color": "#27ae60"
+    },
+    {
+        "_id": "4",
+        "name": "Oil",
+        "icon": "oil-icon.png",
+        "color": "#f1c40f"
+    }
+]
